@@ -1,0 +1,23 @@
+* {
+  font-family: 'Archivo', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: inherit;
+}
+
+body {
+  background-image: url("../images/grid-background.png");
+  background-color: #000;
+}
+
+.component-header {
+  background-color: rgba(45, 45, 45, 0.6);
+  color: #FFFFFF;
+}
+
+.logo-size {
+  font-size: 60px;
+}

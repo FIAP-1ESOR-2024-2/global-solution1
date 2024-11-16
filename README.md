@@ -1,1 +1,1 @@
-# global-solution1
+# Global Solution
