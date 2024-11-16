@@ -1,5 +1,6 @@
 * {
   font-family: 'Archivo', sans-serif;
+  color: #FFFFFF;
 }
 
 a {
@@ -15,9 +16,20 @@ body {
 
 .component-header {
   background-color: rgba(45, 45, 45, 0.6);
-  color: #FFFFFF;
 }
 
 .logo-size {
   font-size: 60px;
+}
+
+.component-footer {
+  background-color: #222222;
+}
+
+.component-footer a {
+  color: #00D324;
+}
+
+.rights {
+  background-color: #000000;
 }

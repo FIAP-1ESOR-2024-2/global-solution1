@@ -30,11 +30,6 @@ class AppHeader extends HTMLElement {
           <ul class="mb-0 list-unstyled gap-3 d-flex align-items-center">
             <li>
               <a href="">
-                <i class="ph ph-question fs-4"></i>
-              </a>
-            </li>
-            <li>
-              <a href="">
                 <i class="ph ph-user-circle fs-4"></i>
               </a>
             </li>
