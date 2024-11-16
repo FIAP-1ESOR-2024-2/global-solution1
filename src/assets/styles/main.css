@@ -30,6 +30,10 @@ body {
   color: #00D324;
 }
 
+.partner-logo {
+  max-width: 100px;
+}
+
 .rights {
   background-color: #000000;
 }
