@@ -37,3 +37,37 @@ body {
 .rights {
   background-color: #000000;
 }
+
+.card {
+  background-color: #222222;
+  max-height: 500px;
+  box-shadow: 0 4px 8px rgba(17, 17, 17, 0.9);
+}
+
+.btn {
+  color: #FFFFFF;
+  background-color: #00D324;
+}
+
+.btn:hover {
+  color: #00D324;
+  background-color: #FFFFFF;
+}
+
+.btn i {
+  color: inherit;
+}
+
+.btn span {
+  color: inherit;
+}
+
+.highlight:hover {
+  color: #00D324;
+  transition: color 0.4s ease;
+}
+
+.highlight:hover span {
+  color: #00D324;
+  transition: color 0.4s ease;
+}

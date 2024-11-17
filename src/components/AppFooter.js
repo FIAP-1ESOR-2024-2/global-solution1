@@ -18,7 +18,7 @@ class AppFooter extends HTMLElement {
                 <a href="">Fale Conosco</a>
               </li>
               <li>
-                <a href="">Os Devs</a>
+                <a href="./devs.html">Os Devs</a>
               </li>
               <li>
                 <a href="">Video Pitch</a>

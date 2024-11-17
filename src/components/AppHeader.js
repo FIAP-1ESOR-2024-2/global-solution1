@@ -34,7 +34,7 @@ class AppHeader extends HTMLElement {
         <div class="d-flex flex-row flex-fill align-items-center justify-content-end">
           <ul class="mb-0 list-unstyled gap-3 d-flex align-items-center">
             <li>
-              <a href="">
+              <a href="./login.html">
                 <i class="ph ph-user-circle fs-3"></i>
               </a>
             </li>
