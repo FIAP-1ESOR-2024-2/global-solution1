@@ -24,13 +24,18 @@ class AppHeader extends HTMLElement {
                 Suporte
               </a>
             </li>
+            <li>
+              <a href="">
+                Faça um Orçamento
+              </a>
+            </li>
           </ul>
         </div>
         <div class="d-flex flex-row flex-fill align-items-center justify-content-end">
           <ul class="mb-0 list-unstyled gap-3 d-flex align-items-center">
             <li>
               <a href="">
-                <i class="ph ph-user-circle fs-4"></i>
+                <i class="ph ph-user-circle fs-3"></i>
               </a>
             </li>
           </ul>
