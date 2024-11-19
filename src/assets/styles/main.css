@@ -1,6 +1,13 @@
+:root {
+  --primaryBackgroundColor: #222222;
+  --secondaryBackgroundColor: #000000;
+  --white: #FFFFFF;
+  --green: #00D324;
+}
+
 * {
   font-family: 'Archivo', sans-serif;
-  color: #FFFFFF;
+  color: var(--white);
 }
 
 a {
@@ -11,7 +18,7 @@ a {
 
 body {
   background-image: url("../images/grid-background.png");
-  background-color: #000;
+  background-color: var(--secondaryBackgroundColor);
 }
 
 .component-header {
@@ -23,11 +30,11 @@ body {
 }
 
 .component-footer {
-  background-color: #222222;
+  background-color: var(--primaryBackgroundColor);
 }
 
 .component-footer a {
-  color: #00D324;
+  color: var(--green);
 }
 
 .partner-logo {
@@ -35,23 +42,23 @@ body {
 }
 
 .rights {
-  background-color: #000000;
+  background-color: var(--secondaryBackgroundColor);
 }
 
 .card {
-  background-color: #222222;
+  background-color: var(--primaryBackgroundColor);
   max-height: 500px;
   box-shadow: 0 4px 8px rgba(17, 17, 17, 0.9);
 }
 
 .btn {
-  color: #FFFFFF;
-  background-color: #00D324;
+  color: var(--white);
+  background-color: var(--green);
 }
 
 .btn:hover {
-  color: #00D324;
-  background-color: #FFFFFF;
+  color: var(--green);
+  background-color: var(--white);
 }
 
 .btn i {
@@ -63,11 +70,13 @@ body {
 }
 
 .highlight:hover {
-  color: #00D324;
+  color: var(--green);
   transition: color 0.4s ease;
+  cursor: pointer;
 }
 
 .highlight:hover span {
-  color: #00D324;
+  color: var(--green);
   transition: color 0.4s ease;
+  cursor: pointer;
 }
