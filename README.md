@@ -8,7 +8,7 @@
 - [ ] Suporte
 - [ ] Login
 - [ ] Cadastro
-- [ ] Os Devs
+- [x] Os Devs
 
 ## Componentes
 - [x] Header
