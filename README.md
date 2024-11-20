@@ -3,9 +3,9 @@
 
 
 ## Páginas
-- [ ] Home
+- [x] Home
 - [x] Fale Conosco
-- [ ] Suporte
+- [ ] ~~Suporte~~
 - [x] Planos
 - [x] Login
 - [x] Cadastro
