@@ -4,7 +4,7 @@
 
 ## Páginas
 - [ ] Home
-- [ ] Fale Conosco
+- [x] Fale Conosco
 - [ ] Suporte
 - [x] Planos
 - [x] Login
