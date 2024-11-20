@@ -1,6 +1,7 @@
 :root {
-  --primaryBackgroundColor: #222222;
-  --secondaryBackgroundColor: #000000;
+  --primaryBackgroundColor: #121212;
+  --secondaryBackgroundColor: #222222;
+  --tertiaryBackgroundColor: #000000;
   --secondaryColor: #6702d4;
   --planI-color: #917c3a;
   --planII-color: #f59042;
@@ -22,7 +23,7 @@ a {
 
 body {
   background-image: url("../images/grid-background.png");
-  background-color: var(--secondaryBackgroundColor);
+  background-color: var(--tertiaryBackgroundColor);
 }
 
 .component-header {
@@ -46,7 +47,7 @@ body {
 }
 
 .rights {
-  background-color: var(--secondaryBackgroundColor);
+  background-color: var(--tertiaryBackgroundColor);
 }
 
 .content-card {
@@ -67,6 +68,11 @@ body {
 
 .planIII {
   background-color: var(--planIII-color);
+}
+
+.plan_content-card {
+  background-color: var(--secondaryBackgroundColor);
+  height: fit-content;
 }
 
 .primary-btn {
