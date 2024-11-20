@@ -15,7 +15,7 @@ class AppFooter extends HTMLElement {
             </span>
             <ul class="mb-0 list-unstyled gap-2 d-flex flex-column">
               <li>
-                <a href="">Fale Conosco</a>
+                <a href="./contact.html">Fale Conosco</a>
               </li>
               <li>
                 <a href="./devs.html">Os Devs</a>
