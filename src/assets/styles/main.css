@@ -7,6 +7,7 @@
   --planII-color: #f59042;
   --planIII-color: #5d42f5;
   --white: #FFFFFF;
+  --black: #000000;
   --green: #00D324;
 }
 
@@ -73,6 +74,28 @@ body {
 .plan_content-card {
   background-color: var(--secondaryBackgroundColor);
   height: fit-content;
+}
+
+.white_content-card {
+  background-color: var(--white);
+  color: var(--black);
+  max-height: auto;
+  width: fit-content;
+  min-width: 700px;
+  box-shadow: 0 4px 8px rgba(17, 17, 17, 0.9);
+}
+
+.white_content-card span {
+  color: var(--black);
+}
+
+.black_content-card {
+  background-color: var(--primaryBackgroundColor);
+  color: var(--white);
+  max-height: auto;
+  width: fit-content;
+  min-width: 700px;
+  box-shadow: 0 4px 8px rgba(17, 17, 17, 0.9);
 }
 
 .primary-btn {
