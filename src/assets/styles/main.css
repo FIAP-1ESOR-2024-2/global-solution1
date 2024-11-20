@@ -46,9 +46,11 @@ body {
   background-color: var(--secondaryBackgroundColor);
 }
 
-.card {
+.content-card {
   background-color: var(--primaryBackgroundColor);
-  max-height: 550px;
+  max-height: auto;
+  width: fit-content;
+  min-width: 400px;
   box-shadow: 0 4px 8px rgba(17, 17, 17, 0.9);
 }
 
