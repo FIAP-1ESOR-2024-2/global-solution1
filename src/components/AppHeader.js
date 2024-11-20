@@ -15,12 +15,12 @@ class AppHeader extends HTMLElement {
         <div class="header-links d-flex flex-fill align-items-center justify-content-center">
           <ul class="mb-0 list-unstyled gap-3 d-flex">
             <li>
-              <a href="" class="d-flex align-items-center">
+              <a href="./index.html" class="d-flex align-items-center">
                 Agende uma Chamada
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="./index.html">
                 Suporte
               </a>
             </li>

@@ -21,13 +21,10 @@ class AppFooter extends HTMLElement {
                 <a href="./devs.html">Os Devs</a>
               </li>
               <li>
-                <a href="">Video Pitch</a>
+                <a href="./index.html">Video Pitch</a>
               </li>
               <li>
-                <a href="">Termos de Serviço</a>
-              </li>
-              <li>
-                <a href=""></a>
+                <a href="./index.html">Termos de Serviço</a>
               </li>
             </ul>
           </div>
