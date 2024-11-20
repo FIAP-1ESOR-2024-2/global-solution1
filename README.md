@@ -6,8 +6,8 @@
 - [ ] Home
 - [ ] Fale Conosco
 - [ ] Suporte
-- [ ] Login
-- [ ] Cadastro
+- [x] Login
+- [x] Cadastro
 - [x] Os Devs
 
 ## Componentes

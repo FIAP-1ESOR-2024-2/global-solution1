@@ -1,6 +1,7 @@
 :root {
   --primaryBackgroundColor: #222222;
   --secondaryBackgroundColor: #000000;
+  --secondaryColor: #6702d4;
   --white: #FFFFFF;
   --green: #00D324;
 }
@@ -47,25 +48,43 @@ body {
 
 .card {
   background-color: var(--primaryBackgroundColor);
-  max-height: 500px;
+  max-height: 550px;
   box-shadow: 0 4px 8px rgba(17, 17, 17, 0.9);
 }
 
-.btn {
+.primary-btn {
   color: var(--white);
   background-color: var(--green);
 }
 
-.btn:hover {
+.primary-btn:hover {
   color: var(--green);
   background-color: var(--white);
 }
 
-.btn i {
+.primary-btn i {
   color: inherit;
 }
 
-.btn span {
+.primary-btn span {
+  color: inherit;
+}
+
+.secondary-btn {
+  color: var(--white);
+  background-color: var(--secondaryColor);
+}
+
+.secondary-btn:hover {
+  color: var(--secondaryColor);
+  background-color: var(--white);
+}
+
+.secondary-btn i {
+  color: inherit;
+}
+
+.secondary-btn span {
   color: inherit;
 }
 
