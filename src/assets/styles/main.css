@@ -2,6 +2,9 @@
   --primaryBackgroundColor: #222222;
   --secondaryBackgroundColor: #000000;
   --secondaryColor: #6702d4;
+  --planI-color: #5d42f5;
+  --planII-color: #f59042;
+  --planIII-color: #917c3a;
   --white: #FFFFFF;
   --green: #00D324;
 }
@@ -52,6 +55,18 @@ body {
   width: fit-content;
   min-width: 400px;
   box-shadow: 0 4px 8px rgba(17, 17, 17, 0.9);
+}
+
+.planI {
+  background-color: var(--planI-color);
+}
+
+.planII {
+  background-color: var(--planII-color);
+}
+
+.planIII {
+  background-color: var(--planIII-color);
 }
 
 .primary-btn {

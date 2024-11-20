@@ -25,8 +25,8 @@ class AppHeader extends HTMLElement {
               </a>
             </li>
             <li>
-              <a href="">
-                Faça um Orçamento
+              <a href="./plans.html">
+                Veja nossos planos
               </a>
             </li>
           </ul>
