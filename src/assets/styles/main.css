@@ -82,6 +82,7 @@ body {
   max-height: auto;
   width: fit-content;
   min-width: 700px;
+  max-width: 700px;
   box-shadow: 0 4px 8px rgba(17, 17, 17, 0.9);
 }
 
@@ -95,6 +96,7 @@ body {
   max-height: auto;
   width: fit-content;
   min-width: 700px;
+  max-width: 700px;
   box-shadow: 0 4px 8px rgba(17, 17, 17, 0.9);
 }
 
