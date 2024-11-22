@@ -2,6 +2,15 @@
 
 
 
+# Vídeo
+
+[Global Solution](https://youtu.be/-Fh_khAIWCU)
+
+
+
+# Site
+
+
 ## Páginas
 - [x] Home
 - [x] Fale Conosco

@@ -1,0 +1,1 @@
+[Global Solution](https://youtu.be/-Fh_khAIWCU)
